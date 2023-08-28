@@ -1,0 +1,15 @@
+ven_twitter_analysis/*
+pos.jpg
+neg.jpg
+
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.swp
+*.swo
+*.log
+__init__.py
+.idea/
+.vscode/
+venv/
